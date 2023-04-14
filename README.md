@@ -38,4 +38,4 @@ The extract step looks like:
 ![star_schema](./extract_img.jpeg)
 
 The Delta transform step looks like:
-![star_schema](./delta_transform.jpeg)
+![star_schema](./delta_transform.png)
